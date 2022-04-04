@@ -2,6 +2,7 @@ import "./App.css";
 import { ALongComponent } from "./ALongComponent";
 import { IngasComponent } from "./IngasComponent";
 import { DeansComp } from "./DeansComp";
+import TonyComponent from "./TonyComponent.jsx"
 
 function App() {
   return (
@@ -10,6 +11,8 @@ function App() {
         <ALongComponent />
         <IngasComponent />
         <DeansComp />
+        <TonyComponent />
+
         <p>Hello Devhaus campers!</p>
         <p>Cold as hell today</p>
       </header>
