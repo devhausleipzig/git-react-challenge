@@ -1,6 +1,7 @@
 import "./App.css";
 import { ALongComponent } from "./ALongComponent";
 import { IngasComponent } from "./IngasComponent";
+import AronComponent from "./aron-component";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       </header>
       <h3>Hello!dasdasda dasdada</h3>
       <p>New line 😥</p>
+      <AronComponent />
     </div>
   );
 }
