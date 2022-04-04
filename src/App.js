@@ -3,6 +3,7 @@ import { ALongComponent } from "./ALongComponent";
 import { IngasComponent } from "./IngasComponent";
 import AronComponent from "./aron-component";
 import { DeansComp } from "./DeansComp";
+import { JonathansComponent } from "./JonathansComponent.jsx"
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <h3>Hello!dasdasda dasdada</h3>
       <p>New line 😥</p>
       <AronComponent />
+      <JonathansComponent/>
     </div>
   );
 }
