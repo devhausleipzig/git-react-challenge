@@ -7,6 +7,7 @@ function App() {
          <header className="App-header">
             <ALongComponent />
             <p>Hello Devhaus campers!</p>
+            <p>Cold as hell today</p>
          </header>
          <h3>Hello!</h3>
       </div>
