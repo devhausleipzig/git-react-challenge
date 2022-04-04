@@ -1,6 +1,6 @@
 import "./App.css";
 import { ALongComponent } from "./ALongComponent";
-import HelloWorld from "./HelloWorld";
+import { HelloWorld } from "./NormansComponent";
 
 function App() {
   return (
