@@ -2,6 +2,7 @@ import "./App.css";
 import { ALongComponent } from "./ALongComponent";
 import { IngasComponent } from "./IngasComponent";
 import AronComponent from "./aron-component";
+import { DeansComp } from "./DeansComp";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <header className="App-header">
         <ALongComponent />
         <IngasComponent />
+        <DeansComp />
         <p>Hello Devhaus campers!</p>
         <p>Cold as hell today</p>
       </header>
