@@ -4,7 +4,7 @@ const AronComponent = () => {
   return (
     <>
       <h1>Aron-Component</h1>
-      <p>With more text</p>
+      <p>With much more text</p>
     </>
   );
 };
