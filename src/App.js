@@ -10,7 +10,7 @@ function App() {
             <p>Cold as hell today</p>
          </header>
          <h3>Hello!dasdasda dasdada</h3>
-         <p>New line</p>
+         <p>New line 😥</p>
       </div>
    );
 }
